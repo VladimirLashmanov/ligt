@@ -6,4 +6,4 @@ initLight(trafficLightNode);
 
 btnNode.addEventListener('click', function (){
     switchLight(trafficLightNode);
-});
+})

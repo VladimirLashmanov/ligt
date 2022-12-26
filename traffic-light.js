@@ -12,7 +12,7 @@ const CLASSES_BY_LIGHT ={
 const NEXT_LIGHT_BY_LIGHT={
     [LIGHTS.red]: LIGHTS.green,
     [LIGHTS.green]: LIGHTS.yellow,
-    [LIGHTS.yellow]: LIGHTS.red,
+    [LIGHTS.yellow]: LIGHTS.red
 };
 
 let currentLight = LIGHTS.red;
